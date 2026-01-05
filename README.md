@@ -1,69 +1,85 @@
-<div align="center" width="50">
+<h1 align="center">Hi, I'm Ahmed Ragab 👋</h1>
+<h3 align="center">Software Engineer | Problem Solver | Open Source Enthusiast</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+---
 
+## 👨‍💻 About Me
+- 💻 Software Engineer with a strong interest in **problem solving** and **building scalable software**
+- 🧠 Continuous learner, always exploring new technologies and strengthening core fundamentals
+- 🌍 Community-driven and passionate about **volunteering & tech communities**
+- 🚀 Currently focusing on **open-source contributions** and collaborative development
 
+---
 
-</div>
+## 🛠️ Tech Stack
 
-<hr></hr>
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)
+![C](https://img.shields.io/badge/C-lightgrey?style=flat&logo=c)
+![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
+![C#](https://img.shields.io/badge/C%23-purple?style=flat&logo=csharp)
+![Go](https://img.shields.io/badge/Go-blue?style=flat&logo=go)
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+### Backend & Frameworks
+- Node.js, Express.js, NestJS  
+- ASP.NET  
 
+### Databases
+- MySQL, PostgreSQL  
+- MongoDB  
+- SQL Server  
 
+### Tools & Technologies
+- Git & GitHub  
+- Docker  
+- HTML, CSS  
 
+---
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Backend**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **AI/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **CP , Business or anything**. <br>
-- 📱 Reach me on WhatsApp: [Ahmed Ragab](https://wa.me/201129558271)
+## 🧩 Problem Solving Profiles
 
+<p align="center">
+  <a href="https://leetcode.com/u/A7med_Ragab/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-A7med_Ragab-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ahmedraga981" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-ahmedraga981-brightgreen?style=for-the-badge&logo=hackerrank" />
+  </a>
+</p>
 
-<div align="center">
-<a href="https://github.com/A7MEDRAGAB82">
+- 📌 Regular practice on **LeetCode** (algorithms & data structures)
+- 📌 Problem solving and certifications on **HackerRank**
+- 📈 Focused on consistency, clean solutions, and optimal approaches
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A7MEDRAGAB82&theme=nord_dark" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A7MEDRAGAB82&theme=nord_dark" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=A7MEDRAGAB82&theme=nord_dark" width="32.5%">
+---
 
-</a>
+## 🌱 Open Source
+- 🔰 Starting my journey in **open source contributions**
+- 🤝 Looking for beginner-friendly repositories to contribute to
+- 📚 Actively learning collaborative workflows (PRs, code reviews, issues)
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A7MEDRAGAB82&theme=nord_dark">
+---
 
-</details>
+## 🤝 Community & Volunteering
+- Active member in tech communities and volunteering initiatives
+- Strong believer in knowledge sharing and community growth
 
+---
 
+## 📫 Contact Me
 
-<hr></hr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmedragab82/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Ragab-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ahmedraga981@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmedraga981%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-**Code Cycle**<br>
+---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
-
-</div>
+⭐ Feel free to explore my repositories and connect with me!
